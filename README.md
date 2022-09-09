@@ -14,7 +14,7 @@ The idea of this repository is to have a list maintained and updated by the comm
 | ❌     | Not     |
 
 
-| Company Name | Pair programming | Test driven programming | Trunk based development | CD/CI |
-| -------- | -------- | -------- | -------- | -------- |
-| [Codurance](https://codurance.com/)     | ✅     | ✅     | ✅     | ✅     |
-| [Lean mind](https://leanmind.es/)     | ✅     | ✅     | ✅     | ✅     |
+| Company Name | Pair programming | Test driven programming | Trunk based development | CD/CI | Location |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| [Codurance](https://codurance.com/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Lean mind](https://leanmind.es/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
