@@ -18,3 +18,4 @@ The idea of this repository is to have a list maintained and updated by the comm
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | [Codurance](https://codurance.com/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
 | [Lean mind](https://leanmind.es/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Clarity AI](https://clarity.ai/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
