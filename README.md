@@ -18,3 +18,4 @@ The idea of this repository is to have a list maintained and updated by the comm
 | -------- | -------- | -------- | -------- | -------- |
 | [Codurance](https://codurance.com/)     | ✅     | ✅     | ✅     | ✅     |
 | [Lean mind](https://leanmind.es/)     | ✅     | ✅     | ✅     | ✅     |
+| [Clarity AI (Devex team)](https://clarity.ai/)     | ✅     | ✅     | ✅     | ✅     |
