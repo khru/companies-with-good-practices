@@ -14,8 +14,9 @@ The idea of this repository is to have a list maintained and updated by the comm
 | ❌     | Not     |
 
 
-| Company Name | Pair programming | Test driven programming | Trunk based development | CD/CI | Location |
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| [Codurance](https://codurance.com/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Lean mind](https://leanmind.es/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Clarity AI (Devex Team)](https://clarity.ai/)     | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| Company Name                                   | Pair programming | Test driven programming | Trunk based development | CD/CI | Location |
+|------------------------------------------------| -------- | -------- | -------- | -------- | -------- |
+| [Codurance](https://codurance.com/)            | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Lean mind](https://leanmind.es/)              | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Clarity AI (Devex Team)](https://clarity.ai/) | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Thoughtworks](https://www.thoughtworks.com/)  | ✅     | ✅     | ✅     | ✅     |  Remote     |
