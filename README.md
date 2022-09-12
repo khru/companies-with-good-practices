@@ -21,3 +21,4 @@ The idea of this repository is to have a list maintained and updated by the comm
 | [Clarity AI (Devex Team)](https://clarity.ai/)   | ✅     | ✅     | ✅     | ✅     |  Remote     |
 | [Thoughtworks](https://www.thoughtworks.com/)    | ✅     | ✅     | ✅     | ✅     |  Remote     |
 | [Lifull Connect](https://www.lifullconnect.com/) | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Audiense](https://audiense.com/)                | ✅     | ✅     | ✅     | ✅     |  Remote     |
