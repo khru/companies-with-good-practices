@@ -22,3 +22,4 @@ The idea of this repository is to have a list maintained and updated by the comm
 | [Thoughtworks](https://www.thoughtworks.com/)    | ✅     | ✅     | ✅     | ✅     |  Remote     |
 | [Lifull Connect](https://www.lifullconnect.com/) | ✅     | ✅     | ✅     | ✅     |  Remote     |
 | [Audiense](https://audiense.com/)                | ✅     | ✅     | ✅     | ✅     |  Remote     |
+| [Scentmate](https://scentmate.com/)               | ✅     | ✅     | ✅     | ✅     |  Remote or BCN     |
