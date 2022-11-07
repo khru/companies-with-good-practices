@@ -14,11 +14,12 @@ The idea of this repository is to have a list maintained and updated by the comm
 | ❌     | Not     |
 
 
-| Company Name                                     | Pair programming | Test driven programming | Trunk based development | CD/CI | Location |
-|--------------------------------------------------| -------- | -------- | -------- | -------- | -------- |
-| [Codurance](https://codurance.com/)              | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Lean mind](https://leanmind.es/)                | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Thoughtworks](https://www.thoughtworks.com/)    | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Lifull Connect](https://www.lifullconnect.com/) | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Audiense](https://audiense.com/)                | ✅     | ✅     | ✅     | ✅     |  Remote     |
-| [Scentmate](https://scentmate.com/)               | ✅     | ✅     | ✅     | ✅     |  Remote or BCN     |
+| Company Name                                     | Pair programming | Test driven programming | Trunk based development | CD/CI | Location      |
+|--------------------------------------------------|------------------|-------------------------|-------------------------|-------|---------------|
+| [Codurance](https://codurance.com/)              | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [Lean mind](https://leanmind.es/)                | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [Thoughtworks](https://www.thoughtworks.com/)    | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [Lifull Connect](https://www.lifullconnect.com/) | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [Audiense](https://audiense.com/)                | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [Scentmate](https://scentmate.com/)              | ✅                | ✅                       | ✅                       | ✅     | Remote or BCN |
+| [Cooltra](https://cooltra.com/)                  | ✅                | ✅                       | ✅                       | ✅     | Remote or BCN |
