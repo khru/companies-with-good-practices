@@ -24,3 +24,4 @@ The idea of this repository is to have a list maintained and updated by the comm
 | [Scentmate](https://scentmate.com/)              | ✅                | ✅                       | ✅                       | ✅     | Remote or BCN |
 | [Cooltra](https://cooltra.com/)                  | ✅                | ✅                       | ✅                       | ✅     | Remote or BCN |
 | [Clevergy](https://clever.gy/)                   | ✅                | ✅                       | ✅                       | ✅     | Remote        |
+| [FlexMyRoom](https://flexmyroom.com/)            | ✅                | ✅                       | ✅                       | ✅     | Remote        |
